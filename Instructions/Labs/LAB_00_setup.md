@@ -46,3 +46,5 @@ In this setup task, you will enable the Audit log capability in Microsoft 365.  
 ### Review
 
 In this setup, you enabled the audit log capability in Microsoft 365.
+
+labnya cuma bisa sampe 3 lab selebihnya pake azure berbayar
